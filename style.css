@@ -54,6 +54,11 @@ nav a:hover {
 
 .hero p {
     font-size: 20px;
+}.hero-subtitle{
+    max-width:800px;
+    margin:20px auto;
+    line-height:1.8;
+    font-size:20px;
 }.quote-button {
     display: inline-block;
     margin-top: 25px;
